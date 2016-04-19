@@ -1,0 +1,28 @@
+[
+  {
+    "Id" : "978-001",
+    "Value" : "Solutions First",
+    "Description" : "There is a solution to every problem. The answer is always, “We will.” The only question is how.",
+    "Icon" : "http://www.stuzo.com/img/svg/v1.svg"
+  }, {
+    "Id" : "978-002",
+    "Value" : "Embrace Change",
+    "Description" : "Change is the only constant. Progress is the only option. We invest in change today.",
+    "Icon" : "http://www.stuzo.com/img/svg/v2.svg"
+  }, {
+    "Id" : "978-002",
+    "Value" : "Speed Wins",
+    "Description" : "Speed Wins. Technology moves at breakneck speeds. Winning = Velocity (Starting + Doing + Improving) > Everyone Else.",
+    "Icon" : "http://www.stuzo.com/img/svg/v3.svg"
+  }, {
+    "Id" : "978-002",
+    "Value" : "Details Trump",
+    "Description" : "Excellence is in the details. From first impression onward, the details ensure we deliver solutions that delight.",
+    "Icon" : "http://www.stuzo.com/img/svg/v4.svg"
+  }, {
+    "Id" : "978-002",
+    "Value" : "Go Nerds",
+    "Description" : "Embrace your inner nerd. With our strengths combined, together we’ll make history.",
+    "Icon" : "http://www.stuzo.com/img/svg/go-nerds.svg"
+  }
+]

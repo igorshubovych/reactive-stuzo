@@ -1,0 +1,66 @@
+[
+  {
+    "id" : "978-0641723445",
+    "cat" : "JS",
+    "Title" : "JavaScript: The Good Parts",
+    "Author" : "Douglas Crockford",
+    "Description" : "Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole—a subset you can use to create truly extensible and efficient code.",
+    "Image" : "http://ecx.images-amazon.com/images/I/518QVtPWA7L._SX379_BO1,204,203,200_.jpg",
+    "Price" : "$20.81",
+    "Link" : "http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_4?s=books&ie=UTF8&qid=1461095955&sr=1-4&keywords=javascript"
+  }, {
+    "id" : "978-064174323445",
+    "cat" : "JS",
+    "Title" : "JavaScript and JQuery: Interactive Front-End Web Development",
+    "Author" : "Jon Duckett",
+    "Description" : "This full-color book will show you how to make your websites more interactive and your interfaces more interesting and intuitive.",
+    "Image" : "http://ecx.images-amazon.com/images/I/41oa41LdNdL._SX400_BO1,204,203,200_.jpg",
+    "Price" : "$28.85",
+    "Link" : "http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_5?s=books&ie=UTF8&qid=1461095955&sr=1-5&keywords=javascript"
+  }, {
+    "id" : "978-0641765445",
+    "cat" : "HTML",
+    "Title" : "Dynamic HTML: The Definitive Reference",
+    "Author" : "Danny Goodman",
+    "Description" : "Packed with information on the latest web specifications and browser features, this new edition is your ultimate one-stop resource for HTML, XHTML, CSS, Document Object Model (DOM), and JavaScript development. Here is the comprehensive reference for designers of Rich Internet Applications who need to operate in all modern browsers, including Internet Explorer 7, Firefox 2, Safari, and Opera.",
+    "Image" : "http://ecx.images-amazon.com/images/I/518QVtPWA7L._SX379_BO1,204,203,200_.jpg",
+    "Price" : "$4.20",
+    "Link" : "http://www.amazon.com/Dynamic-HTML-Definitive-Danny-Goodman/dp/0596527403/ref=sr_1_10?s=books&ie=UTF8&qid=1461095955&sr=1-10&keywords=javascript"
+  }, {
+    "id" : "978-1231765445",
+    "cat" : "JS",
+    "Title" : "JavaScript: The Definitive Guide",
+    "Author" : "Danny Goodman",
+    "Description" : "Since 1996, JavaScript: The Definitive Guide has been the bible for JavaScript programmers—a programmer's guide and comprehensive reference to the core language and to the client-side JavaScript APIs defined by web browsers.",
+    "Image" : "http://ecx.images-amazon.com/images/I/51WD-F3GobL._SX379_BO1,204,203,200_.jpg",
+    "Price" : "$33.89",
+    "Link" : "http://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527/ref=sr_1_12?s=books&ie=UTF8&qid=1461095955&sr=1-12&keywords=javascript"
+  }, {
+    "id" : "978-3211765445",
+    "cat" : "JS",
+    "Title" : "Eloquent JavaScript: A Modern Introduction to Programming",
+    "Author" : "Marijn Haverbeke",
+    "Description" : "JavaScript lies at the heart of almost every modern web application, from social apps to the newest browser-based games. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications.",
+    "Image" : "http://ecx.images-amazon.com/images/I/51zFTdNilAL._SX377_BO1,204,203,200_.jpg",
+    "Price" : "$21.55",
+    "Link" : "http://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=sr_1_9?s=books&ie=UTF8&qid=1461096530&sr=1-9&keywords=javascript"
+  }, {
+    "id" : "978-7771765445",
+    "cat" : "PHP",
+    "Title" : "Modern PHP: New Features and Good Practices",
+    "Author" : "Josh Lockhart",
+    "Description" : "PHP is experiencing a renaissance, though it may be difficult to tell with all of the outdated PHP tutorials online. With this practical guide, you’ll learn how PHP has become a full-featured, mature language with object-orientation, namespaces, and a growing collection of reusable component libraries.",
+    "Image" : "http://ecx.images-amazon.com/images/I/51fIuBswbgL._SX379_BO1,204,203,200_.jpg",
+    "Price" : "$16.85",
+    "Link" : "http://www.amazon.com/Modern-PHP-Features-Good-Practices/dp/1491905018/ref=sr_1_2?s=books&ie=UTF8&qid=1461096663&sr=1-2&keywords=php"
+  }, {
+    "id" : "978-6661765445",
+    "cat" : "PHP",
+    "Title" : "PhP: Learn PHP Programming Quick & Easy",
+    "Author" : "Troy Dimes",
+    "Description" : "Are you new to computer programming or just want to brush up on some skills? If so, this book is a wonderful resource for you. PHP is one of the most widely used open source, server side programming languages. If you are interested in getting started with programming and want to get some basic knowledge of the language, then this book is for you! Famous websites, including Facebook & Yahoo are powered by PHP. It is, in a sense, the language of the world!",
+    "Image" : "http://ecx.images-amazon.com/images/I/416QeVubfuL._SX331_BO1,204,203,200_.jpg",
+    "Price" : "$17.27",
+    "Link" : "http://www.amazon.com/PhP-Learn-Programming-Quick-Easy/dp/1511594225/ref=sr_1_3?s=books&ie=UTF8&qid=1461096755&sr=1-3&keywords=php"
+  } 
+]
