@@ -6,7 +6,7 @@ const Button = ({count, update}) => {
       Button was clicked {count}
     </button>
   );
-}
+};
 
 
 export default Button;

@@ -1,5 +1,5 @@
 const path = require('path');
-const webpack = require('webpack-stream').webpack;
+// const webpack = require('webpack-stream').webpack;
 
 module.exports = {
   devtool: 'cheap-module-inline-source-map',
