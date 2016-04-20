@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "generate-data": "node utils/generate-data.js"
+    "generate-data": "node utils/generate-data.js",
+    "lint": "eslint js/**/*.js gulp/**/*.js"
   },
   "keywords": [],
   "author": "",
@@ -18,7 +19,8 @@
     "babel-preset-stage-0": "^6.5.0",
     "browser-sync": "^2.11.1",
     "dreamjs": "^0.1.5",
-    "eslint-plugin-react": "^4.2.3",
+    "eslint": "^2.8.0",
+    "eslint-plugin-react": "^4.3.0",
     "gulp": "github:gulpjs/gulp#4.0",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-filenames": "^2.0.0",
