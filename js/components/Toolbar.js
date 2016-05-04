@@ -44,7 +44,7 @@ export default class Toolbar extends Component {
         <button className="btn btn-default" onClick={() => this.sort('imdbRating')}>
           <i className="fa fa-sort-numeric-desc"></i>  Sort by IMDB rating
         </button>
-        <button className="btn btn-danger" onClick={this.reset.bind(this)}>
+        <button className="btn btn-warning" onClick={this.reset.bind(this)}>
           <i className="fa fa-ban"></i>  Reset
         </button>
       </div>
