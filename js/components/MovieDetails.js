@@ -7,7 +7,7 @@ export default ({ data, active }) => {
 
   return (
     <div className="thumbnail">
-      <img src={movie.Poster.replace('http://', '//')} />
+      <img src={movie.Poster.replace('http://', 'https://')} />
 
       <div className="thumbnail-caption">
         <h3>{movie.Title}</h3>
